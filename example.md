@@ -1,4 +1,4 @@
-[example](#example) | [live example](#live_example) | [synopsis](#synopiys) | [defined](#defined) | [notes](#notes)
+[example](#example) | [live example](#live-example) | [synopsis](#synopiys) | [defined](#defined) | [notes](#notes)
 # InitWindow
 Initialize window and OpenGL context.
 
