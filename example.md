@@ -50,3 +50,7 @@ int main(void)
     return 0;
 }
 ```
+
+## Live example
+
+You can check the above code working [by clicking here](https://htmlpreview.github.io/?https://github.com/WEREMSOFT/c-projects-documentation-example/blob/master/html/example_2d_cat_witch.html).
